@@ -7,7 +7,7 @@
     {
       "id": "1",
       "name": "전사",
-      "image": "cards/01.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/01.jpg",
       "keywords": [
         "공격성",
         "적극성",
@@ -22,7 +22,7 @@
     {
       "id": "2",
       "name": "연인",
-      "image": "cards/02.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/02.jpg",
       "keywords": [
         "가치",
         "매력",
@@ -36,7 +36,7 @@
     {
       "id": "3",
       "name": "중재자",
-      "image": "cards/03.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/03.jpg",
       "keywords": [
         "신들의 전령",
         "지적 능력",
@@ -50,7 +50,7 @@
     {
       "id": "4",
       "name": "어머니",
-      "image": "cards/04.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/04.jpg",
       "keywords": [
         "여성성",
         "가족",
@@ -66,7 +66,7 @@
     {
       "id": "5",
       "name": "자아",
-      "image": "cards/05.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/05.jpg",
       "keywords": [
         "힘",
         "욕망",
@@ -82,7 +82,7 @@
     {
       "id": "6",
       "name": "봉사자",
-      "image": "cards/06.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/06.jpg",
       "keywords": [
         "이성",
         "현실 수용",
@@ -96,7 +96,7 @@
     {
       "id": "7",
       "name": "파트너",
-      "image": "cards/07.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/07.jpg",
       "keywords": [
         "상대방",
         "관계",
@@ -111,7 +111,7 @@
     {
       "id": "8",
       "name": "유혹자",
-      "image": "cards/08.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/08.jpg",
       "keywords": [
         "악마",
         "상상",
@@ -126,7 +126,7 @@
     {
       "id": "9",
       "name": "설교자",
-      "image": "cards/09.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/09.jpg",
       "keywords": [
         "성직자",
         "사명",
@@ -141,7 +141,7 @@
     {
       "id": "10",
       "name": "장인",
-      "image": "cards/10.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/10.jpg",
       "keywords": [
         "정통성",
         "책임",
@@ -155,7 +155,7 @@
     {
       "id": "11",
       "name": "광대",
-      "image": "cards/11.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/11.jpg",
       "keywords": [
         "전달자",
         "자유",
@@ -169,7 +169,7 @@
     {
       "id": "12",
       "name": "천사",
-      "image": "cards/12.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/12.jpg",
       "keywords": [
         "진실",
         "신성한 빛",
@@ -184,7 +184,7 @@
     {
       "id": "13",
       "name": "반항",
-      "image": "cards/13.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/13.jpg",
       "keywords": [
         "파괴적인 아이",
         "분노",
@@ -198,7 +198,7 @@
     {
       "id": "14",
       "name": "이브의 두 얼굴",
-      "image": "cards/14.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/14.jpg",
       "keywords": [
         "역할 갈등",
         "복잡한 감정",
@@ -211,7 +211,7 @@
     {
       "id": "15",
       "name": "의사표현",
-      "image": "cards/15.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/15.jpg",
       "keywords": [
         "감정을 이야기하기",
         "심리 치료",
@@ -224,7 +224,7 @@
     {
       "id": "16",
       "name": "양립불가",
-      "image": "cards/16.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/16.jpg",
       "keywords": [
         "낙원에서의 추방",
         "둘",
@@ -238,7 +238,7 @@
     {
       "id": "17",
       "name": "보살핌",
-      "image": "cards/17.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/17.jpg",
       "keywords": [
         "동정",
         "누군가를 돌봄",
@@ -252,7 +252,7 @@
     {
       "id": "18",
       "name": "가족",
-      "image": "cards/18.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/18.jpg",
       "keywords": [
         "제3의 힘",
         "영적인 접촉",
@@ -267,7 +267,7 @@
     {
       "id": "19",
       "name": "낙태",
-      "image": "cards/19.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/19.jpg",
       "keywords": [
         "영혼을 팔다",
         "희생된 여성성",
@@ -282,7 +282,7 @@
     {
       "id": "20",
       "name": "므네모시네",
-      "image": "cards/20.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/20.jpg",
       "keywords": [
         "기억",
         "치유",
@@ -296,7 +296,7 @@
     {
       "id": "21",
       "name": "얼음 여왕",
-      "image": "cards/21.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/21.jpg",
       "keywords": [
         "차가운 여성",
         "외로운 아이",
@@ -310,7 +310,7 @@
     {
       "id": "22",
       "name": "해방",
-      "image": "cards/22.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/22.jpg",
       "keywords": [
         "감정적 해방",
         "어린 시절을 벗어남",
@@ -324,7 +324,7 @@
     {
       "id": "23",
       "name": "잠자는 미녀",
-      "image": "cards/23.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/23.jpg",
       "keywords": [
         "꿈",
         "갈망",
@@ -339,7 +339,7 @@
     {
       "id": "24",
       "name": "전투",
-      "image": "cards/24.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/24.jpg",
       "keywords": [
         "힘겨루기",
         "피로스의 승리",
@@ -352,7 +352,7 @@
     {
       "id": "25",
       "name": "여왕",
-      "image": "cards/25.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/25.jpg",
       "keywords": [
         "여성적인 힘과 능력",
         "위엄과 화려함",
@@ -364,7 +364,7 @@
     {
       "id": "26",
       "name": "배우",
-      "image": "cards/26.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/26.jpg",
       "keywords": [
         "역할",
         "자기 연출",
@@ -378,7 +378,7 @@
     {
       "id": "27",
       "name": "병든 왕",
-      "image": "cards/27.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/27.jpg",
       "keywords": [
         "환자",
         "일상에 흥미 없음",
@@ -392,7 +392,7 @@
     {
       "id": "28",
       "name": "결혼",
-      "image": "cards/28.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/28.jpg",
       "keywords": [
         "사랑",
         "사랑에 빠짐",
@@ -408,7 +408,7 @@
     {
       "id": "29",
       "name": "마법사",
-      "image": "cards/29.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/29.jpg",
       "keywords": [
         "생명을 만들려는 노력",
         "흑마법과 백마법",
@@ -421,7 +421,7 @@
     {
       "id": "30",
       "name": "행운",
-      "image": "cards/30.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/30.jpg",
       "keywords": [
         "행운",
         "영적인 깊이",
@@ -437,7 +437,7 @@
     {
       "id": "31",
       "name": "짐",
-      "image": "cards/31.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/31.jpg",
       "keywords": [
         "고생스러운 일",
         "양심",
@@ -452,7 +452,7 @@
     {
       "id": "32",
       "name": "몰락",
-      "image": "cards/32.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/32.jpg",
       "keywords": [
         "궁중 반란",
         "전복",
@@ -466,7 +466,7 @@
     {
       "id": "33",
       "name": "후퇴",
-      "image": "cards/33.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/33.jpg",
       "keywords": [
         "자아의 상실",
         "명상",
@@ -479,7 +479,7 @@
     {
       "id": "34",
       "name": "사랑",
-      "image": "cards/34.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/34.jpg",
       "keywords": [
         "성적 매력",
         "끌림",
@@ -492,7 +492,7 @@
     {
       "id": "35",
       "name": "형틀",
-      "image": "cards/35.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/35.jpg",
       "keywords": [
         "가십",
         "명예 훼손",
@@ -506,7 +506,7 @@
     {
       "id": "36",
       "name": "죄책감",
-      "image": "cards/36.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/36.jpg",
       "keywords": [
         "의도하지 않은 행동",
         "좋은 뜻에서 한 행동",
@@ -519,7 +519,7 @@
     {
       "id": "37",
       "name": "불일치",
-      "image": "cards/37.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/37.jpg",
       "keywords": [
         "남녀의 싸움",
         "충돌",
@@ -531,7 +531,7 @@
     {
       "id": "38",
       "name": "뱀파이어",
-      "image": "cards/38.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/38.jpg",
       "keywords": [
         "영혼으로의 침투",
         "속박",
@@ -544,7 +544,7 @@
     {
       "id": "39",
       "name": "십자군",
-      "image": "cards/39.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/39.jpg",
       "keywords": [
         "종교적 논쟁",
         "사명의 수호",
@@ -557,7 +557,7 @@
     {
       "id": "40",
       "name": "예방",
-      "image": "cards/40.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/40.jpg",
       "keywords": [
         "성과 없는 노력",
         "운명의 힘",
@@ -571,7 +571,7 @@
     {
       "id": "41",
       "name": "악의적인 말썽쟁이",
-      "image": "cards/41.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/41.jpg",
       "keywords": [
         "트러블메이커",
         "짜증 나는 것",
@@ -584,7 +584,7 @@
     {
       "id": "42",
       "name": "완벽한 바보",
-      "image": "cards/42.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/42.jpg",
       "keywords": [
         "패배자",
         "떠돌이",
@@ -598,7 +598,7 @@
     {
       "id": "43",
       "name": "황금 소녀",
-      "image": "cards/43.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/43.jpg",
       "keywords": [
         "신데렐라",
         "여성 사이의 경쟁",
@@ -611,7 +611,7 @@
     {
       "id": "44",
       "name": "집착",
-      "image": "cards/44.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/44.jpg",
       "keywords": [
         "욕심",
         "과함",
@@ -624,7 +624,7 @@
     {
       "id": "45",
       "name": "황금 새장",
-      "image": "cards/45.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/45.jpg",
       "keywords": [
         "구속하는 관계",
         "소유로서의 사랑",
@@ -637,7 +637,7 @@
     {
       "id": "46",
       "name": "꼭두각시",
-      "image": "cards/46.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/46.jpg",
       "keywords": [
         "인형 같은 외모",
         "조종당하는 감각",
@@ -650,7 +650,7 @@
     {
       "id": "47",
       "name": "물질과 영혼",
-      "image": "cards/47.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/47.jpg",
       "keywords": [
         "상품이 된 정신",
         "행복을 사다",
@@ -662,7 +662,7 @@
     {
       "id": "48",
       "name": "창조에 대한 책임",
-      "image": "cards/48.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/48.jpg",
       "keywords": [
         "세상에 대한 책임",
         "자연",
@@ -675,7 +675,7 @@
     {
       "id": "49",
       "name": "작별",
-      "image": "cards/49.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/49.jpg",
       "keywords": [
         "고향을 떠남",
         "갑작스러운 물질적 붕괴",
@@ -689,7 +689,7 @@
     {
       "id": "50",
       "name": "영혼의 정원",
-      "image": "cards/50.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/50.jpg",
       "keywords": [
         "세상 뒤의 세계",
         "뿌리 없음",
@@ -702,7 +702,7 @@
     {
       "id": "51",
       "name": "전략가",
-      "image": "cards/51.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/51.jpg",
       "keywords": [
         "지식인",
         "통제",
@@ -718,7 +718,7 @@
     {
       "id": "52",
       "name": "허영의 시장",
-      "image": "cards/52.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/52.jpg",
       "keywords": [
         "보고 보이기",
         "자기도취적 관계",
@@ -731,7 +731,7 @@
     {
       "id": "53",
       "name": "피리 부는 사나이",
-      "image": "cards/53.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/53.jpg",
       "keywords": [
         "속아 넘어감",
         "제안",
@@ -746,7 +746,7 @@
     {
       "id": "54",
       "name": "스승과 제자",
-      "image": "cards/54.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/54.jpg",
       "keywords": [
         "배움과 가르침",
         "수준의 차이",
@@ -759,7 +759,7 @@
     {
       "id": "55",
       "name": "고통",
-      "image": "cards/55.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/55.jpg",
       "keywords": [
         "장애",
         "어렵게 배움",
@@ -773,7 +773,7 @@
     {
       "id": "56",
       "name": "꿈꾸는 남자",
-      "image": "cards/56.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/56.jpg",
       "keywords": [
         "꿈꾸는 사람",
         "별에 닿으려 함",
@@ -788,7 +788,7 @@
     {
       "id": "57",
       "name": "침묵",
-      "image": "cards/57.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/57.jpg",
       "keywords": [
         "보이지 않음",
         "침묵은 금",
@@ -801,7 +801,7 @@
     {
       "id": "58",
       "name": "일상적 관계",
-      "image": "cards/58.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/58.jpg",
       "keywords": [
         "설렘 없음",
         "무료함",
@@ -815,7 +815,7 @@
     {
       "id": "59",
       "name": "자책",
-      "image": "cards/59.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/59.jpg",
       "keywords": [
         "자책",
         "죄의식을 벗으려는 강박",
@@ -828,7 +828,7 @@
     {
       "id": "60",
       "name": "종교재판",
-      "image": "cards/60.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/60.jpg",
       "keywords": [
         "심문",
         "위선",
@@ -842,7 +842,7 @@
     {
       "id": "61",
       "name": "공포",
-      "image": "cards/61.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/61.jpg",
       "keywords": [
         "삶과 죽음에 대한 두려움",
         "어둠에 대한 두려움",
@@ -855,7 +855,7 @@
     {
       "id": "62",
       "name": "복수의 여신",
-      "image": "cards/62.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/62.jpg",
       "keywords": [
         "복수의 화신",
         "의심",
@@ -869,7 +869,7 @@
     {
       "id": "63",
       "name": "속임수",
-      "image": "cards/63.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/63.jpg",
       "keywords": [
         "자기기만",
         "부정행위",
@@ -883,7 +883,7 @@
     {
       "id": "64",
       "name": "재앙",
-      "image": "cards/64.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/64.jpg",
       "keywords": [
         "사슬",
         "지옥 같은 관계",
@@ -896,7 +896,7 @@
     {
       "id": "65",
       "name": "심볼론",
-      "image": "cards/65.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/65.jpg",
       "keywords": [
         "관계의 의미",
         "사랑의 행운",
@@ -910,7 +910,7 @@
     {
       "id": "66",
       "name": "슬픔",
-      "image": "cards/66.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/66.jpg",
       "keywords": [
         "버려짐",
         "관계 안의 외로움",
@@ -924,7 +924,7 @@
     {
       "id": "67",
       "name": "이별",
-      "image": "cards/67.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/67.jpg",
       "keywords": [
         "해방",
         "관계에서 탈출",
@@ -937,7 +937,7 @@
     {
       "id": "68",
       "name": "왕의 두 자녀",
-      "image": "cards/68.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/68.jpg",
       "keywords": [
         "로맨틱한 관계",
         "꿈의 파트너",
@@ -950,7 +950,7 @@
     {
       "id": "69",
       "name": "검은 미사",
-      "image": "cards/69.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/69.jpg",
       "keywords": [
         "우상 숭배",
         "교조",
@@ -964,7 +964,7 @@
     {
       "id": "70",
       "name": "우울",
-      "image": "cards/70.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/70.jpg",
       "keywords": [
         "덫에 걸림",
         "망연자실",
@@ -977,7 +977,7 @@
     {
       "id": "71",
       "name": "불사조",
-      "image": "cards/71.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/71.jpg",
       "keywords": [
         "변형",
         "영혼의 해방",
@@ -991,7 +991,7 @@
     {
       "id": "72",
       "name": "거짓된 후광",
-      "image": "cards/72.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/72.jpg",
       "keywords": [
         "선과 악",
         "천국이라는 관념",
@@ -1004,7 +1004,7 @@
     {
       "id": "73",
       "name": "고해",
-      "image": "cards/73.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/73.jpg",
       "keywords": [
         "고백",
         "주관의 정화",
@@ -1017,7 +1017,7 @@
     {
       "id": "74",
       "name": "양자도약",
-      "image": "cards/74.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/74.jpg",
       "keywords": [
         "패러다임의 변화",
         "미지로의 도약",
@@ -1030,7 +1030,7 @@
     {
       "id": "75",
       "name": "피티아",
-      "image": "cards/75.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/75.jpg",
       "keywords": [
         "직관",
         "신탁의 여사제",
@@ -1043,7 +1043,7 @@
     {
       "id": "76",
       "name": "감금",
-      "image": "cards/76.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/76.jpg",
       "keywords": [
         "과도한 압박",
         "던져진 주사위",
@@ -1056,7 +1056,7 @@
     {
       "id": "77",
       "name": "모이라",
-      "image": "cards/77.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/77.jpg",
       "keywords": [
         "운명의 수용",
         "지혜",
@@ -1070,7 +1070,7 @@
     {
       "id": "78",
       "name": "성배의 질문",
-      "image": "cards/78.jpg",
+      "image": "https://moonhong1164.github.io/MoonHongSimbolon/cards/78.jpg",
       "keywords": [
         "구원의 질문",
         "영원한 탐구",
