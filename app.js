@@ -271,6 +271,7 @@
       `<div class="slot-hole">${p}</div><div class="slot-name"></div></div>` : '')).join('')).join('');
     $('readings').innerHTML = Object.keys(s.positions).map((p) =>
       `<article class="reading" data-pos="${p}" hidden></article>`).join('');
+    if (journal) journal.hide();
     updateStatus();
   }
 
@@ -334,6 +335,7 @@
       $('flipAll').hidden = true;
       $('together').innerHTML = togetherHTML(s, state.at);
       $('together').hidden = false;
+      if (journal) journal.show();
     }
     updateStatus();
     if (!quiet && done) setTimeout(() => $('together').scrollIntoView({ block: 'start' }), 700);
@@ -433,6 +435,18 @@
   });
   $('dialogClose').addEventListener('click', () => dialog.close());
   dialog.addEventListener('click', (e) => { if (e.target === dialog) dialog.close(); });
+
+  /* ── 리딩 일지에 저장 (허브의 journal-box.js를 못 불러오면 아무것도 하지 않는다) ── */
+  var journal = window.MoonHongJournal && window.MoonHongJournal.box ? window.MoonHongJournal.box({
+    deck: '심볼론', deckId: 'symbolon', after: $('readings'),
+    read: () => {
+      const s = spread();
+      if (!state.picked || state.flipped.size < s.count) return null;
+      return { spread: s.name, question: state.question,
+        cards: Object.keys(s.positions).filter((p) => state.at[p])
+          .map((p) => ({ name: state.at[p].ko, position: s.positions[p][0], orientation: null })) };
+    }
+  }) : null;
 
   renderSpreadOptions();
   renderSpreadBook();
